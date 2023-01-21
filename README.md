@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O App controle de hábitos é um aplicativos para usar no controle dos seus hábitos diários para adquirir mais qualidade de vida.
 
-- [Acesse o projeto finalizado, online](https://github.com/RamirisonOliveira/app_controle_habitos)
+- [Visite o projeto online](https://ramirisonoliveira.github.io/app_controle_habitos/)
 
 ## 🔖 Layout
 
